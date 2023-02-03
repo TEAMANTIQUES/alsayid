@@ -258,7 +258,7 @@ data = {
 },
 }
 }
-send(msg.chat_id,msg.id,"➢ اهلا بك عزيزي المطور الاساسي \n","md",true, false, false, true, reply_markup)
+send(msg.chat_id,msg.id,"➢ اهلا بك عزيزي المطور الفيطي \n","md",true, false, false, true, reply_markup)
 return false 
 end
 ---
