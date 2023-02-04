@@ -1132,7 +1132,7 @@ end
 end
 
 if text == 'السورس' or text == 'السورس ✯' or text == 'يا سورس' or text == 'source' then
-photo = "https://t.me/F_FX1"
+photo = "https://t.me/F210S"
 local T =[[
     ⦑ Welcome to Source ⦒
     ✯ [⦑ 𝑺𝑂𝑈𝑅𝐶𝐸 𝐴𝐿𝑆𝐴𝑌𝐼𝐷 ⦒](https://t.me/F210S)
